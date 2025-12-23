@@ -10,3 +10,5 @@ ExamQuestion_2.Run();
 Console.WriteLine();
 
 ExamQuestion_3.Run();
+
+ExamQuestion_4.Run();
