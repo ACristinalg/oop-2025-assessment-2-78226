@@ -3,6 +3,6 @@ using oop_assignment_2_2025_78226.Models;
 
 Console.WriteLine("Hello, World!");
 
-
-
 ExamQuestion_1.Run();
+ExamQuestion_2.Run();
+
